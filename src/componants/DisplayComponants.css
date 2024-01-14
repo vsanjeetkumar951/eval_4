@@ -1,0 +1,16 @@
+.Display{
+   
+    border: 1px solid black;
+    padding: 20px;
+    border-radius: 5px;
+    background-color: rgb(154, 196, 196);
+  
+}
+.Display img{
+    height: 150px;
+    border-radius: 5px;
+}
+.Display h4{
+     font-size: 25px;
+     color: rgb(110, 93, 71);
+}
